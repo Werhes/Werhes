@@ -7,7 +7,7 @@
 
 ✌️ **Ima 10 years old developer haha**
 
-    <img src="https://github.com/Werhes/Werhes/blob/main/assests/image.png"> 
+![image](https://github.com/Werhes/Werhes/blob/main/assests/image.png)
 
 
 # 📊GitHub stats: look at how bad it's getting...
