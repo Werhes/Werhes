@@ -1,4 +1,4 @@
-![banner](https://github.com/Werhes/Werhes/blob/main/assests/rainbow.png)
+![banner](https://github.com/Werhes/Werhes/blob/main/assests/7e187553-7097-44c1-897f-129962ca74e7.png)
 ## Abour me:
 
 🎧 **I listen to everything that can be listened to.**
